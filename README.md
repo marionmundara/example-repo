@@ -1,2 +1,2 @@
 # example-repo
-A sample repo
+A sample repository. Hello world!
